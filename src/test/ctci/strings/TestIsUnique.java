@@ -4,7 +4,7 @@ import org.testng.Assert;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
-public class testIsUnique {
+public class TestIsUnique {
 
     @DataProvider(name = "unique")
     public static Object[][] uniqueProvider() {

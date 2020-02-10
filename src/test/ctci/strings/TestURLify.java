@@ -4,7 +4,7 @@ import org.testng.Assert;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
-public class testURLify {
+public class TestURLify {
 
     @DataProvider(name = "url")
     public static Object[][] urlProvider() {

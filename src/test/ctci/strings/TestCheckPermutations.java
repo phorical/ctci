@@ -4,7 +4,7 @@ import org.testng.Assert;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
-public class testCheckPermutations {
+public class TestCheckPermutations {
 
     @DataProvider(name = "not-perms")
     public static Object[][] notPermsProvider() {
